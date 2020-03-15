@@ -31,7 +31,7 @@ local import = function(toimport)
 end
 
 getgenv().oh = {}
-oh.gui = import(4055219910)
+oh.gui = import(4782798279)
 oh.assets = import(4055228005)
 oh.environment = import("environment.lua") 
 oh.auxiliary = import("auxiliary.lua")
